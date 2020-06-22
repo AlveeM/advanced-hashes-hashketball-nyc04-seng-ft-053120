@@ -267,6 +267,8 @@ def player_hash(player_name)
       return player
     end
   end
+  
+  return nil
 end
 
 def player_max_stat(stat_key)
